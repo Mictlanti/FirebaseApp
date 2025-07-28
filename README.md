@@ -36,7 +36,7 @@ Implementación de distintos tipos de anuncios usando el SDK oficial de AdMob:
 
 ## 🧪 Cómo probar este proyecto
 
-1. Clona el repositorio:
+1. Clona el repositorio: https://github.com/Mictlanti/FirebaseApp.git
 - Abre el proyecto en Android Studio.
 - Configura Firebase en tu proyecto:
 - Crea un proyecto en Firebase Console.
