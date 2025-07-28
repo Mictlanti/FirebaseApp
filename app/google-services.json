@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543953986733",
+    "project_id": "fir-app-749fd",
+    "storage_bucket": "fir-app-749fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543953986733:android:1a643bd5adcb8082b51224",
+        "android_client_info": {
+          "package_name": "com.horizon.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJK_QCWbmsFeHKxi1AkaWyt6IDci90O9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
