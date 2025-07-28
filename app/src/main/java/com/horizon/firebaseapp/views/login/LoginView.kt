@@ -127,7 +127,7 @@ fun LoginRoute(
             ),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            HeadLineLarge(text = "Firebase App")
+            HeadLineLarge(text = "FirebaseApp")
             BodyLogAnimation(text = "In this project, we used firebase service")
             SignInLog(
                 logList,
