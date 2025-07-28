@@ -45,3 +45,7 @@ Implementación de distintos tipos de anuncios usando el SDK oficial de AdMob:
 - Ejecuta la aplicación en un emulador o dispositivo real.
 
 - Si encuentras útil este proyecto, ¡no olvides dejar una estrella ⭐ y contribuir con tus mejoras!
+
+- ## 📜 Licencia
+
+MIT © 2025 Daniel Rosas
